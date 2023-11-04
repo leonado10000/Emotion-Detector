@@ -8,7 +8,6 @@ Facial Emotion Recognition with MobileNet is a deep learning project that aims t
 
 The trained model can efficiently recognize seven different emotions: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise. This README provides an overview of the project, instructions for usage, and project highlights.
 
-![Demo](demo.gif)
 
 ## Key Features
 
@@ -16,14 +15,14 @@ The trained model can efficiently recognize seven different emotions: Angry, Dis
 - Implemented real-time emotion recognition from a webcam feed.
 - Utilized OpenCV for face detection.
 - Integrated early stopping and model checkpoint for efficient model training.
-- Achieved an accuracy of XX% on the validation dataset.
+- Achieved an accuracy of 59% on the validation dataset.
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/facial-emotion-recognition.git
+   git clone https://github.com/leonado10000/Emotion-Detector.git
    ```
 
 2. Install the required Python packages:
@@ -32,11 +31,7 @@ The trained model can efficiently recognize seven different emotions: Angry, Dis
    pip install -r requirements.txt
    ```
 
-3. Download the trained model:
-
-   You can download the trained model file, `best_model.h5`, [here](link-to-model-file).
-
-4. Run the main application:
+3. Run the main application:
 
    ```bash
    python emotion_recognition.py
@@ -52,7 +47,6 @@ The trained model can efficiently recognize seven different emotions: Angry, Dis
 - `emotion_recognition.py`: The main application for real-time emotion recognition.
 - `model_training.ipynb`: Jupyter Notebook for training the emotion recognition model.
 - `best_model.h5`: The trained deep learning model.
-- `demo.gif`: A demo of the application in action.
 
 ## Acknowledgments
 
