@@ -1,7 +1,5 @@
 # Emotion-Detector
-Certainly! Here's a template for a GitHub README for your Facial Emotion Recognition project using MobileNet:
 
-```markdown
 # Facial Emotion Recognition with MobileNet
 
 ## Overview
@@ -60,23 +58,3 @@ The trained model can efficiently recognize seven different emotions: Angry, Dis
 
 - The project utilizes the MobileNet architecture for transfer learning.
 - The Haar Cascade classifier from OpenCV is used for face detection.
-
-## Contributing
-
-Contributions and suggestions are welcome! Feel free to open an issue or create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-
-- [Your Name](https://github.com/yourusername)
-
-## Contact
-
-- Email: your@email.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-```
-
-Remember to replace placeholders like `yourusername`, `XX%`, and `link-to-model-file` with your actual information and relevant links. You can also add more sections or customize it further to fit your specific project details.
